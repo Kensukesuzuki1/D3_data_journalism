@@ -1,0 +1,31 @@
+.iframeContainer {
+  padding: 20px;
+  border: 1px solid #e3e3e3;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  padding-bottom: 80px;
+}
+
+.tooltip {
+  position: absolute;
+  width: 135px;
+  height: 60px;
+  padding: 2px;
+  padding-top: 8px;
+  font: 12px sans-serif;
+  color: white;
+  text-align: center;
+  background: #FF0000;
+  border: 0;
+  border-radius: 10px;
+}
+
+#footer p {
+  margin: 0;
+  font-size: 16px;
+}
